@@ -1,1 +1,2 @@
 Hello Git
+Dashboard feature added by Partner
